@@ -2,3 +2,4 @@ nginx
 postgres
 mysql
 dokploy/dokploy
+node
