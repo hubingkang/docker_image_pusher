@@ -3,3 +3,5 @@ postgres
 mysql
 dokploy/dokploy
 node
+node:20-slim
+nginx:alpine
