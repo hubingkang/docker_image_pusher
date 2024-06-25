@@ -5,3 +5,4 @@ dokploy/dokploy
 node
 node:20-slim
 nginx:alpine
+louislam/uptime-kuma
