@@ -2,6 +2,9 @@ nginx
 postgres
 mysql
 dokploy/dokploy
+postgres:16
+redis:7
+traefik:v2.5
 node:20-slim
 nginx:alpine
 louislam/uptime-kuma
