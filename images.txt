@@ -10,3 +10,4 @@ nginx:alpine
 louislam/uptime-kuma
 redis
 lobehub/lobe-chat
+umamisoftware/umami
