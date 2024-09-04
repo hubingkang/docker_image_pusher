@@ -11,3 +11,4 @@ louislam/uptime-kuma
 redis
 lobehub/lobe-chat
 node:18-alpine
+svhd/logto:latest
